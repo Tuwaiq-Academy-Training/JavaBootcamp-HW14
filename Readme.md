@@ -1,5 +1,5 @@
 ## Create Employees management software
-Employees class: ID , name , age , role, onLeave, employmentYear ,annualLeave
+Employees class: ID , name , age , position , onLeave, employmentYear ,annualLeave
 
 Validation :
 
